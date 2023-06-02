@@ -1,0 +1,22 @@
+
+
+
+IR Sensor 01
+Connect the GND pin of IR Sensor with the GND pin of Esp32
+Connect the VCC pin of IR Sensor with the 3.3V pin of Esp32
+Connect the OUT pin of IR Sensor with the GPIO 12 pin of Esp32
+
+IR Sensor 02
+Connect the GND pin of IR Sensor with the GND pin of Esp32
+Connect the VCC pin of IR Sensor with the 3.3V pin of Esp32
+Connect the OUT pin of IR Sensor with the GPIO 2 pin of Esp32
+
+IR Sensor 03
+Connect the GND pin of IR Sensor with the GND pin of Esp32
+Connect the VCC pin of IR Sensor with the 3.3V pin of Esp32
+Connect the OUT pin of IR Sensor with the GPIO 14 pin of Esp32
+
+IR Sensor 04
+Connect the GND pin of IR Sensor with the GND pin of Esp32
+Connect the VCC pin of IR Sensor with the 3.3V pin of Esp32
+Connect the OUT pin of IR Sensor with the GPIO 15 pin of Esp32
